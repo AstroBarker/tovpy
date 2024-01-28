@@ -6,7 +6,7 @@ For nuclear equations of state, use tables from [StellarCollapse](https://stella
 
 With the nuclear equation of state, we assume a cold neutron star (minimum temperature of the table) and beta equilibrium.
 
-Includes forward Eular and RK4 temporal integration.
+Includes forward Euler and RK4 temporal integration.
 
 ## Dependencies
  - numpy
